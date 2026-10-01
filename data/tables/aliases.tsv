@@ -1,0 +1,26 @@
+term_lower	term	standardized_term	term_id	ontology	ontology_class	flag	decided_by	time
+immunoglobulin complex	immunoglobulin complex	immunoglobulin complex	GO:0019814	go	protein	exact	HumanReviewer:CCHAY	2026-10-01T20:38:54+00:00
+igg	IgG	IgG immunoglobulin complex	GO:0071735	go	protein	semantic	gpt-6-luna	2026-10-01T20:41:49+00:00
+prostate specific antigen	prostate specific antigen	prostate-specific antigen	PR:000003015	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T20:43:54+00:00
+prostate specific antigen (human)	prostate specific antigen (human)	prostate-specific antigen (human)	PR:P07288	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T20:46:14+00:00
+gp120	gp120	HIV envelope glycoprotein gp120 glycosylated form	PR:000003229	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T20:48:04+00:00
+muc5ac	MUC5AC	mucin-5AC (human)	PR:P98088	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T20:54:58+00:00
+muc2 (human)	MUC2 (human)	mucin-2 (human)	PR:Q02817	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T20:58:44+00:00
+haptoglobin (human)	haptoglobin (human)	haptoglobin (human)	PR:P00738	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T21:06:08+00:00
+complement c3	complement C3	complement C3	PR:000004900	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T21:06:57+00:00
+complement c3 (human)	complement C3 (human)	complement C3 (human)	PR:P01024	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T21:07:55+00:00
+madcam-1 (human)	MAdCAM-1 (human)	mucosal addressin cell adhesion molecule 1 (human)	PR:Q13477	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T21:09:48+00:00
+dag1 (human)	DAG1 (human)	dystroglycan 1 (human)	PR:Q14118	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T21:11:26+00:00
+gallus gallus	gallus gallus	Gallus gallus	NCBITaxon:9031	ncbitaxon	organism	exact	HumanReviewer:CCHAY	2026-10-01T21:25:07+00:00
+cerebrospinal fluid	cerebrospinal fluid	cerebrospinal fluid	UBERON:0001359	uberon	specimen	exact	HumanReviewer:CCHAY	2026-10-01T21:35:31+00:00
+csf	CSF	cerebrospinal fluid	UBERON:0001359	uberon	specimen	exact	HumanReviewer:CCHAY	2026-10-01T21:37:06+00:00
+lung	lung	lung	UBERON:0002048	uberon	specimen	exact	HumanReviewer:CCHAY	2026-10-01T21:38:39+00:00
+t cell	T cell	T cell	CL:0000084	cl	specimen	exact	HumanReviewer:CCHAY	2026-10-01T21:44:28+00:00
+t lymphocyte	T lymphocyte	T cell	CL:0000084	cl	specimen	exact	HumanReviewer:CCHAY	2026-10-01T21:46:05+00:00
+fibroblast	fibroblast	fibroblast	CL:0000057	cl	specimen	exact	HumanReviewer:CCHAY	2026-10-01T21:48:28+00:00
+hiv infection	HIV infection	human immunodeficiency virus infectious disease	DOID:526	doid	disease	exact	HumanReviewer:CCHAY	2026-10-01T21:51:03+00:00
+cancer	cancer	cancer	DOID:162	doid	disease	exact	HumanReviewer:CCHAY	2026-10-01T21:53:02+00:00
+hemoglobin	hemoglobin	hemoglobin complex	GO:0005833	go	protein	semantic	gpt-6-luna	2026-10-01T22:00:56+00:00
+hba1c	HbA1c	hemoglobin A1c	PR:000050469	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T22:02:40+00:00
+transferrin (human)	transferrin (human)	serotransferrin (human)	PR:P02787	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T22:07:20+00:00
+hela cell line	HeLa cell line	HeLa cell	BTO:0000567	bto	specimen	exact	HumanReviewer:CCHAY	2026-10-01T22:13:46+00:00

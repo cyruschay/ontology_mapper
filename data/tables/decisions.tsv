@@ -1,0 +1,28 @@
+term	standardized_term	term_id	ontology	flag	annotation	decided_by	time
+immunoglobulin complex	immunoglobulin complex	GO:0019814	go	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:38:54+00:00
+IgG	IgG immunoglobulin complex	GO:0071735	go	semantic	no alias hit; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T20:41:49+00:00
+prostate specific antigen	prostate-specific antigen	PR:000003015	pr	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same concept, but neither its label (“prostate-specific antigen”) nor its synonyms exactly matches the query “prostate specific antigen”; the label differs by a hyphen.	HumanReviewer:CCHAY	2026-10-01T20:43:54+00:00
+prostate specific antigen (human)	prostate-specific antigen (human)	PR:P07288	pr	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same protein, but neither its label nor its synonyms exactly matches “prostate specific antigen (human)”; the label uses a hyphen, so the relation is semantic rather than exact.	HumanReviewer:CCHAY	2026-10-01T20:46:14+00:00
+gp120	HIV envelope glycoprotein gp120 glycosylated form	PR:000003229	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:48:04+00:00
+MUC5AC	mucin-5AC (human)	PR:P98088	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:54:58+00:00
+MUC2 (human)	mucin-2 (human)	PR:Q02817	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:58:44+00:00
+α-1-acid glycoprotein (human)			ncit	none	no alias hit; 2 retrieval error(s); rerun soon	gpt-6-luna	2026-10-01T21:02:59+00:00
+haptoglobin (human)	haptoglobin (human)	PR:P00738	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:06:08+00:00
+complement C3	complement C3	PR:000004900	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:06:57+00:00
+complement C3 (human)	complement C3 (human)	PR:P01024	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:07:55+00:00
+MAdCAM-1 (human)	mucosal addressin cell adhesion molecule 1 (human)	PR:Q13477	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:09:48+00:00
+DAG1 (human)	dystroglycan 1 (human)	PR:Q14118	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:11:26+00:00
+gallus gallus	Gallus gallus	NCBITaxon:9031	ncbitaxon	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:25:07+00:00
+tumor	mole	UBERON:1000010	uberon	child	no alias hit; ignore this entry for now	gpt-6-luna	2026-10-01T21:28:24+00:00
+cerebrospinal fluid	cerebrospinal fluid	UBERON:0001359	uberon	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:35:31+00:00
+CSF	cerebrospinal fluid	UBERON:0001359	uberon	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:37:06+00:00
+lung	lung	UBERON:0002048	uberon	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:38:39+00:00
+T cell	T cell	CL:0000084	cl	exact	approved after gpt-6-luna proposed exact; 3 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:44:28+00:00
+T lymphocyte	T cell	CL:0000084	cl	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:46:05+00:00
+fibroblast	fibroblast	CL:0000057	cl	exact	approved after gpt-6-luna proposed exact; 3 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:48:28+00:00
+HIV infection	human immunodeficiency virus infectious disease	DOID:526	doid	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:51:03+00:00
+cancer	cancer	DOID:162	doid	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:53:02+00:00
+hemoglobin	hemoglobin complex	GO:0005833	go	semantic	no alias hit	HumanReviewer:CCHAY	2026-10-01T22:00:56+00:00
+HbA1c	hemoglobin A1c	PR:000050469	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T22:02:40+00:00
+transferrin (human)	serotransferrin (human)	PR:P02787	pr	exact	approved after gpt-6-luna proposed exact; accession confirmed	HumanReviewer:CCHAY	2026-10-01T22:07:20+00:00
+HeLa cell line	HeLa cell	BTO:0000567	bto	exact	approved after gpt-6-luna proposed exact; reviewer: The entry label “HeLa cell” is not an exact match for “HeLa cell line,” but both denote the same HeLa cell-line concept.; 4 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T22:13:46+00:00
