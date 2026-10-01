@@ -1,0 +1,10 @@
+.env
+.DS_Store
+__pycache__/
+
+# Large files, users download .obo files via script/download.py
+data/ontology/
+
+*.bak
+data/tables/*.tmp
+

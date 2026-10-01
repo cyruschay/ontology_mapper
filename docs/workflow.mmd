@@ -1,0 +1,41 @@
+---
+config:
+  flowchart:
+    curve: linear
+---
+graph TD;
+	__start__([<p>__start__</p>]):::first
+	normalize(normalize)
+	alias_lookup(alias_lookup)
+	plan_tiers(plan_tiers)
+	next_tier(next_tier)
+	retrieve(retrieve)
+	adjudicate(adjudicate)
+	tools(tools)
+	decide(decide)
+	widen(widen)
+	verify(verify)
+	human_review(human_review)
+	persist(persist)
+	__end__([<p>__end__</p>]):::last
+	__start__ --> normalize;
+	adjudicate -.-> decide;
+	adjudicate -.-> tools;
+	alias_lookup -.-> persist;
+	alias_lookup -.-> plan_tiers;
+	decide -.-> next_tier;
+	decide -.-> verify;
+	decide -.-> widen;
+	human_review --> persist;
+	next_tier --> retrieve;
+	normalize --> alias_lookup;
+	plan_tiers --> retrieve;
+	retrieve --> adjudicate;
+	tools --> adjudicate;
+	verify -.-> human_review;
+	verify -.-> persist;
+	widen --> decide;
+	persist --> __end__;
+	classDef default fill:#f2f0ff,line-height:1.2
+	classDef first fill-opacity:0
+	classDef last fill:#bfb6fc
