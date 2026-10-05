@@ -1,28 +1,165 @@
 term	standardized_term	term_id	ontology	flag	annotation	decided_by	time
-immunoglobulin complex	immunoglobulin complex	GO:0019814	go	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:38:54+00:00
-IgG	IgG immunoglobulin complex	GO:0071735	go	semantic	no alias hit; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T20:41:49+00:00
-prostate specific antigen	prostate-specific antigen	PR:000003015	pr	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same concept, but neither its label (“prostate-specific antigen”) nor its synonyms exactly matches the query “prostate specific antigen”; the label differs by a hyphen.	HumanReviewer:CCHAY	2026-10-01T20:43:54+00:00
-prostate specific antigen (human)	prostate-specific antigen (human)	PR:P07288	pr	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same protein, but neither its label nor its synonyms exactly matches “prostate specific antigen (human)”; the label uses a hyphen, so the relation is semantic rather than exact.	HumanReviewer:CCHAY	2026-10-01T20:46:14+00:00
-gp120	HIV envelope glycoprotein gp120 glycosylated form	PR:000003229	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:48:04+00:00
-MUC5AC	mucin-5AC (human)	PR:P98088	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:54:58+00:00
-MUC2 (human)	mucin-2 (human)	PR:Q02817	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T20:58:44+00:00
-α-1-acid glycoprotein (human)			ncit	none	no alias hit; 2 retrieval error(s); rerun soon	gpt-6-luna	2026-10-01T21:02:59+00:00
-haptoglobin (human)	haptoglobin (human)	PR:P00738	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:06:08+00:00
-complement C3	complement C3	PR:000004900	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:06:57+00:00
-complement C3 (human)	complement C3 (human)	PR:P01024	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:07:55+00:00
-MAdCAM-1 (human)	mucosal addressin cell adhesion molecule 1 (human)	PR:Q13477	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:09:48+00:00
-DAG1 (human)	dystroglycan 1 (human)	PR:Q14118	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:11:26+00:00
-gallus gallus	Gallus gallus	NCBITaxon:9031	ncbitaxon	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:25:07+00:00
-tumor	mole	UBERON:1000010	uberon	child	no alias hit; ignore this entry for now	gpt-6-luna	2026-10-01T21:28:24+00:00
-cerebrospinal fluid	cerebrospinal fluid	UBERON:0001359	uberon	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T21:35:31+00:00
-CSF	cerebrospinal fluid	UBERON:0001359	uberon	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:37:06+00:00
-lung	lung	UBERON:0002048	uberon	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:38:39+00:00
-T cell	T cell	CL:0000084	cl	exact	approved after gpt-6-luna proposed exact; 3 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:44:28+00:00
-T lymphocyte	T cell	CL:0000084	cl	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:46:05+00:00
-fibroblast	fibroblast	CL:0000057	cl	exact	approved after gpt-6-luna proposed exact; 3 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:48:28+00:00
-HIV infection	human immunodeficiency virus infectious disease	DOID:526	doid	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:51:03+00:00
-cancer	cancer	DOID:162	doid	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T21:53:02+00:00
-hemoglobin	hemoglobin complex	GO:0005833	go	semantic	no alias hit	HumanReviewer:CCHAY	2026-10-01T22:00:56+00:00
-HbA1c	hemoglobin A1c	PR:000050469	pr	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-01T22:02:40+00:00
-transferrin (human)	serotransferrin (human)	PR:P02787	pr	exact	approved after gpt-6-luna proposed exact; accession confirmed	HumanReviewer:CCHAY	2026-10-01T22:07:20+00:00
-HeLa cell line	HeLa cell	BTO:0000567	bto	exact	approved after gpt-6-luna proposed exact; reviewer: The entry label “HeLa cell” is not an exact match for “HeLa cell line,” but both denote the same HeLa cell-line concept.; 4 retrieval error(s)	HumanReviewer:CCHAY	2026-10-01T22:13:46+00:00
+immunoglobulin complex	immunoglobulin complex	GO:0019814	go	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T20:38:54+00:00
+IgG	IgG immunoglobulin complex	GO:0071735	go	semantic	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T20:41:49+00:00
+prostate specific antigen	prostate-specific antigen	PR:000003015	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T20:43:54+00:00
+prostate specific antigen (human)	prostate-specific antigen (human)	PR:P07288	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T20:46:14+00:00
+gp120	HIV envelope glycoprotein gp120 glycosylated form	PR:000003229	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T20:48:04+00:00
+MUC5AC (human)	mucin-5AC (human)	PR:P98088	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T20:54:58+00:00
+MUC2 (human)	mucin-2 (human)	PR:Q02817	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T20:58:44+00:00
+α-1-acid glycoprotein (human)			ncit	none	Rejected by human curator. Reviewer: Issue with unicode parsing.	gpt-6-luna	2026-10-01T21:02:59+00:00
+haptoglobin (human)	haptoglobin (human)	PR:P00738	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:06:08+00:00
+complement C3	complement C3	PR:000004900	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:06:57+00:00
+complement C3 (human)	complement C3 (human)	PR:P01024	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:07:55+00:00
+MAdCAM-1 (human)	mucosal addressin cell adhesion molecule 1 (human)	PR:Q13477	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:09:48+00:00
+DAG1 (human)	dystroglycan 1 (human)	PR:Q14118	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-01T21:11:26+00:00
+gallus gallus	Gallus gallus	NCBITaxon:9031	ncbitaxon	exact	"Approved by human curator. Reviewer: issue with mapping ""chicken""."	HumanReviewer:CCHAY	2026-10-01T21:25:07+00:00
+tumor	mole	UBERON:1000010	uberon	child	Approved by human curator. Reviewer: flag=child is correct; will not be programatically added to aliases. 	gpt-6-luna	2026-10-01T21:28:24+00:00
+cerebrospinal fluid	cerebrospinal fluid	UBERON:0001359	uberon	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:35:31+00:00
+CSF	cerebrospinal fluid	UBERON:0001359	uberon	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:37:06+00:00
+lung	lung	UBERON:0002048	uberon	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:38:39+00:00
+T cell	T cell	CL:0000084	cl	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:46:05+00:00
+fibroblast	fibroblast	CL:0000057	cl	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:48:28+00:00
+HIV infection	human immunodeficiency virus infectious disease	DOID:526	doid	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:51:03+00:00
+cancer	cancer	DOID:162	doid	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T21:53:02+00:00
+hemoglobin	hemoglobin complex	GO:0005833	go	semantic	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T22:00:56+00:00
+HbA1c	hemoglobin A1c	PR:000050469	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T22:02:40+00:00
+transferrin (human)	serotransferrin (human)	PR:P02787	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-01T22:07:20+00:00
+HeLa cell line	HeLa cell	BTO:0000567	bto	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-01T22:13:46+00:00
+integrin beta-3	integrin beta-3 (human)	PR:P05106	pr	semantic	Rejected by human curator. Reviewer: Mapped entry is human-specific.	HumanReviewer:CCHAY	2026-10-02T23:51:19+00:00
+KLK3	prostate-specific antigen	PR:000003015	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-02T23:53:39+00:00
+complement C3 beta chain	complement C3 beta chain	PR:000050119	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-02T23:54:34+00:00
+complement C3 beta chain (human)	complement C3 beta chain (human)	PR:000050133	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-02T23:55:06+00:00
+beta-trace protein (human)	prostaglandin-H2 D-isomerase (human)	PR:P41222	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-02T23:55:41+00:00
+carcinoembryonic antigen	cell adhesion molecule CEACAM5	PR:000001330	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-02T23:56:58+00:00
+carcinoembryonic antigen (human)	cell adhesion molecule CEACAM5 (human)	PR:P06731	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-02T23:57:18+00:00
+PSA (human)	prostate-specific antigen (human)	PR:P07288	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-02T23:58:41+00:00
+TGF-β receptor II			ncit	none	Rejected by human curator. Reviewer: Issue with unicode parsing.	gpt-6-luna	2026-10-03T00:00:01+00:00
+TGF-beta receptor II	TGF-beta receptor type-2	PR:000000005	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-03T00:01:20+00:00
+TGF-beta receptor II (human)	TGF-beta receptor type-2 (human)	PR:P37173	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-03T00:01:49+00:00
+CD14	CD14 molecule	PR:000001889	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-03T00:03:33+00:00
+CD14 (human)	monocyte differentiation antigen CD14 (human)	PR:P08571	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-03T00:03:52+00:00
+kininogen (human)	kininogen-1 (human)	PR:P01042	pr	semantic	Unreviewed.	gpt-6-luna	2026-10-03T00:06:04+00:00
+alpha fetoprotein (human)	alpha-fetoprotein (human)	PR:P02771	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-03T00:06:56+00:00
+diptheria toxoid cross-reactive material 197			ncit	none	Unreviewed. Reviewer: diptheria proteins not in PR.	gpt-6-luna	2026-10-03T00:10:10+00:00
+von Willebrand factor (human)	von Willebrand factor (human)	PR:P04275	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-03T00:11:44+00:00
+apolipoprotein B (human)	apolipoprotein B-100 (human)	PR:P04114	pr	semantic	Approved by human curator. Reviewer: close enough match. ApoB defaults to ApoB-100 in standard clinical blood tests.	HumanReviewer:CCHAY	2026-10-03T00:12:29+00:00
+L1CAM (human)	neural cell adhesion molecule L1 (human)	PR:P32004	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-03T00:13:07+00:00
+L1 cell adhesion molecule (human)	neural cell adhesion molecule L1 (human)	PR:P32004	pr	semantic	Approved by human curator. Reviewer: verified.	gpt-6-luna	2026-10-03T00:13:33+00:00
+Ig heavy chain (human)	IgD heavy chain protein (human)	PR:000050187	pr	child	Approved by human curator. Reviewer: flag=child is correct. No direct mapping in PR.	gpt-6-luna	2026-10-03T00:15:43+00:00
+immunoglobulin G	IgG immunoglobulin complex	GO:0071735	go	semantic	Approved by human curator.	gpt-6-luna	2026-10-03T00:17:36+00:00
+DC-SIGN (human)	CD209 antigen (human)	PR:Q9NNX6	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-03T00:19:05+00:00
+CD55 (human)	complement decay-accelerating factor (human)	PR:P08174	pr	exact	Approved by human curator. Reviewer: verified.	HumanReviewer:CCHAY	2026-10-03T00:20:19+00:00
+CD48 (human)	CD48 antigen (human)	PR:P09326	pr	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-03T00:21:12+00:00
+RNA polymerase II (human)	RNA polymerase II, core complex	GO:0005665	go	semantic	Approved by human curator. Reviewer: The mapped term is the closest and close-enough match.	HumanReviewer:CCHAY	2026-10-03T00:23:01+00:00
+RNA polymerase II	DNA-directed RNA polymerase II subunit RPB1	PR:000012987	pr	child	Rejected by human curator. Reviewer: Should be mapped to RNA polymerase II, core complex	gpt-6-luna	2026-10-03T00:23:44+00:00
+ATP synthase	proton-transporting ATP synthase complex	GO:0045259	go	child	Rejected by human curator. Reviewer: close enough match. ATP synthases of some marine bacteria, pathogens, and extremophiles are sodium-dependent.	gpt-6-luna	2026-10-03T00:25:59+00:00
+fetal hemoglobin (human)			ncit	none	Unreviewed. Rejected unseen identifier NCIT:C84982	gpt-6-luna	2026-10-03T00:33:39+00:00
+succinate dehydrogenase (human)	Succinate Dehydrogenase Cytochrome b560 Subunit, Mitochondrial	NCIT:C97778	ncit	child	Unreviewed.	gpt-6-luna	2026-10-03T00:36:14+00:00
+succinate dehydrogenase	protein	PR:000000001	pr	parent	Rejected by human curator. Reviewer: there is a NCIT identifier for this term	HumanReviewer:CCHAY	2026-10-03T00:38:33+00:00
+3-hydroxy-3-methylglutaric aciduria	3-hydroxy-3-methylglutaryl-CoA lyase deficiency	DOID:0070541	doid	exact	Approved by human curator. Reviewer: close enough match. Raw and mapped terms are used interchangeably in newborn screening protocols - Phenotypic vs genotypic naming basis.	HumanReviewer:CCHAY	2026-10-05T18:15:17+00:00
+3-ketothiolase deficiency	beta-ketothiolase deficiency	DOID:14723	doid	exact	Approved by human curator. Reviewer: DO lists 3-ketothiolase deficiency as an exact synonym of beta-ketothiolase deficiency.	HumanReviewer:CCHAY	2026-10-05T18:19:48+00:00
+glutaric acidemia type 1	glutaric acidemia I	DOID:0111254	doid	semantic	Approved by human curator.	gpt-6-luna	2026-10-05T18:21:39+00:00
+methylmalonic acidemia (cobalamin disorders)	methylmalonic acidemia	DOID:14749	doid	exact	Rejected by human curator. Mapped term is parent of query. No direct mapping in DO.	HumanReviewer:CCHAY	2026-10-05T18:33:31+00:00
+methylmalonic acidemia (methylmalonyl-CoA mutase)	methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency	DOID:0060740	doid	semantic	Approved by human curator.	gpt-6-luna	2026-10-05T18:37:27+00:00
+methylmalonic acidemia	methylmalonic acidemia	DOID:14749	doid	exact	Approved by human curator.	HumanReviewer:CCHAY	2026-10-05T19:26:54+00:00
+idiopathic venous thromboembolism	venous thromboembolism	MONDO:0005399	mondo	parent	Approved by human curator. flag=parent is correct. No direct mapping in DO/MONDO. Venous thromboembolism (DOID:0060901).	gpt-6-luna	2026-10-05T19:28:35+00:00
+subarachnoid haemorrhage	subarachnoid hemorrhage	MONDO:0005099	mondo	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T19:30:39+00:00
+Human Immunodeficiency Virus 1 infection	human immunodeficiency virus infectious disease	DOID:526	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:40:45+00:00
+epithelial ovarian cancer	ovary epithelial cancer	DOID:2152	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T19:42:25+00:00
+candidaemia	candidiasis	DOID:1508	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:43:03+00:00
+alcohol risk drinking	alcohol use disorder	DOID:1574	doid	child	approved after gpt-6-luna proposed child; reviewer: Alcohol risk drinking refers to a risky drinking pattern, whereas alcohol use disorder is a disorder defined by recurring use despite negative consequences. Neither necessarily implies the other, so the entry is not a narrower form of the query.	HumanReviewer:CCHAY	2026-10-05T19:44:08+00:00
+Helicobacter pylori infection	obsolete Helicobacter pylori infectious disease	DOID:3686	doid	exact	approved after gpt-6-luna proposed exact; reviewer: The synonym denotes the same concept, but its capitalization differs from the query, so it is not an exact string match.	HumanReviewer:CCHAY	2026-10-05T19:44:52+00:00
+autoimmune encephalomyelitis	autoimmune disease of central nervous system	DOID:0060004	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:45:54+00:00
+cervical carcinoma	cervix carcinoma	DOID:2893	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T19:47:13+00:00
+chronic graft-versus-host disease	graft-versus-host disease	DOID:0081267	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:47:53+00:00
+graft-versus-host disease	graft-versus-host disease	DOID:0081267	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T19:48:19+00:00
+diabetic kidney disease	obsolete diabetes mellitus insulin dependent type uncontrolled with renal manifestations	DOID:2574	doid	child	approved after gpt-6-luna proposed child	HumanReviewer:CCHAY	2026-10-05T19:49:00+00:00
+uveoretinitis	uveitis	DOID:13141	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:49:55+00:00
+Mycobacterium tuberculosis infection	tuberculosis	DOID:399	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T19:50:36+00:00
+advanced endometriosis	endometriosis	DOID:289	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:51:19+00:00
+malignant serous ovarian carcinoma	ovary serous adenocarcinoma	DOID:5744	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T19:51:51+00:00
+mammary carcinoma	breast carcinoma	DOID:3459	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T19:52:28+00:00
+allergic inflammation	allergic disease	DOID:1205	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:53:06+00:00
+arterial inflammation	artery disease	DOID:0050828	doid	parent	approved after gpt-6-luna proposed parent; reviewer: Arterial inflammation is a specific disease of an artery, while artery disease is broader.	HumanReviewer:CCHAY	2026-10-05T19:54:05+00:00
+nontypeable Haemophilus influenzae infection	obsolete Haemophilus influenzae infectious disease	DOID:10528	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:54:47+00:00
+Haemophilus influenzae infection	obsolete Haemophilus influenzae infectious disease	DOID:10528	doid	exact	approved after gpt-6-luna proposed exact; reviewer: The query does not exactly match the label or any synonym. The entry nevertheless denotes the same disease concept, so the relation is semantic.	HumanReviewer:CCHAY	2026-10-05T19:55:16+00:00
+ANCA-associated vasculitis	autoimmune vasculitis	DOID:0040097	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:55:50+00:00
+gestational trophoblastic disease	gestational trophoblastic neoplasm	DOID:3590	doid	child	no alias hit	gpt-6-luna	2026-10-05T19:56:33+00:00
+rectal carcinoma	rectum cancer	DOID:1993	doid	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same concept as “rectal carcinoma,” but neither its label nor its synonyms exactly match that query term.	HumanReviewer:CCHAY	2026-10-05T19:57:00+00:00
+benign prostate disease	prostate disease	DOID:47	doid	parent	no alias hit	gpt-6-luna	2026-10-05T19:57:37+00:00
+ischemic heart disease	coronary artery disease	DOID:3393	doid	exact	Approved by curator. Reviewer: DO lists Ischemic Heart Disease as a synonym of coronary heart disease.	HumanReviewer:CCHAY	2026-10-05T19:58:01+00:00
+serous ovarian cancer	ovarian serous carcinoma	DOID:0050933	doid	semantic	Approved by curator.	gpt-6-luna	2026-10-05T19:59:32+00:00
+pediatric appendicitis	obsolete_appendicitis	EFO:0007149	efo	parent	no alias hit	gpt-6-luna	2026-10-05T20:00:51+00:00
+Muscle-Eye-Brain disease	congenital muscular dystrophy-dystroglycanopathy type A3	DOID:0111236	doid	semantic	approved after gpt-6-luna proposed semantic; reviewer: The entry is the POMGNT1-related subtype of muscle-eye-brain disease, so it is narrower than the query term.	HumanReviewer:CCHAY	2026-10-05T20:01:32+00:00
+human norovirus infection	obsolete Norovirus gastroenteritis	DOID:14311	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:02:46+00:00
+axial spondyloarthritis	spondyloarthropathy	DOID:1123	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:03:27+00:00
+chronic pancreatitis	chronic pancreatitis	DOID:0051065	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:04:12+00:00
+Jurkat lymphoid leukemia	T-cell acute lymphoblastic leukemia	DOID:5603	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:04:59+00:00
+Tn syndrome	Tn polyagglutination syndrome	DOID:0080520	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:06:17+00:00
+Acquired Immune Deficiency Syndrome	acquired immunodeficiency syndrome	DOID:635	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:06:58+00:00
+intestinal metaplasia	gastric intestinal metaplasia	MONDO:0100190	mondo	exact	Approved by curator. Reviewer: Candidate lists “intestinal metaplasia” as an exact synonym of gastric intestinal metaplasia.	HumanReviewer:CCHAY	2026-10-05T20:07:50+00:00
+spatial learning/memory impairment	memory impairment	EFO:0001072	efo	parent	no alias hit	gpt-6-luna	2026-10-05T20:10:45+00:00
+oral cancer	oral cavity cancer	DOID:8618	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:11:20+00:00
+MAN1B1-CDG	congenital disorder of glycosylation type II	DOID:0050571	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:11:56+00:00
+small cell lung cancer	lung small cell carcinoma	DOID:5409	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:12:23+00:00
+cutaneous lymphoma	obsolete skin lymphoma	DOID:6761	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:12:55+00:00
+chronic inflammation	Chronic Inflammation	NCIT:C174450	ncit	exact	approved after gpt-6-luna proposed exact; 1 retrieval error(s)	HumanReviewer:CCHAY	2026-10-05T20:14:21+00:00
+acute heart allograft rejection	acute transplant rejection	MONDO:1010187	mondo	parent	no alias hit	gpt-6-luna	2026-10-05T20:15:03+00:00
+airway infection	respiratory system disease	DOID:1579	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:15:35+00:00
+mucinous carcinoma	mucinous adenocarcinoma	DOID:3030	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:16:20+00:00
+human brain hemangioma	cerebral angioma	DOID:6621	doid	semantic	Approved by human curator. Reviewer: verified. 	gpt-6-luna	2026-10-05T20:17:23+00:00
+infertility	infertility	DOID:5223	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:18:44+00:00
+superficial bladder cancer	superficial urinary bladder cancer	DOID:7371	doid	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same concept, but neither its label nor its synonym exactly matches “superficial bladder cancer.”	HumanReviewer:CCHAY	2026-10-05T20:19:23+00:00
+narcolepsy type 1	narcolepsy	DOID:8986	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:19:58+00:00
+primary Sjögren's syndrome	Sjogren's syndrome	DOID:12894	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:20:34+00:00
+metabolic syndrome	abdominal obesity-metabolic syndrome	DOID:0060611	doid	semantic	Rejected by human curator. Reviewer: The entry is a more specific term than the query term.	HumanReviewer:CCHAY	2026-10-05T20:21:10+00:00
+sepsis	bacterial sepsis	DOID:0040085	doid	child	no alias hit	gpt-6-luna	2026-10-05T20:22:47+00:00
+astrocytoma	malignant astrocytoma	DOID:3069	doid	child	no alias hit	gpt-6-luna	2026-10-05T20:23:29+00:00
+congenital aortic valve stenosis	aortic valve stenosis	DOID:1712	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:23:54+00:00
+esophageal precancerosis	esophageal leukoplakia	DOID:9021	doid	child	approved after gpt-6-luna proposed child	HumanReviewer:CCHAY	2026-10-05T20:24:30+00:00
+diabetic cardiomyopathy	diabetic cardiomyopathy	EFO:1001458	efo	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:25:48+00:00
+glioma	high grade glioma	DOID:3070	doid	exact	approved after gpt-6-luna proposed exact; reviewer: High grade glioma is a more specific type of glioma, and the query term does not exactly match the entry label or any listed synonym.	HumanReviewer:CCHAY	2026-10-05T20:26:15+00:00
+pulmonary emphysema	pulmonary emphysema	DOID:9675	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:26:40+00:00
+HER2-positive breast cancer	HER2 positive breast cancer	DOID:0060079	doid	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same concept, but neither its label nor its synonyms exactly matches “HER2-positive breast cancer.”	HumanReviewer:CCHAY	2026-10-05T20:27:10+00:00
+endometrioid ovarian cancer	endometrioid ovary carcinoma	DOID:5828	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:27:40+00:00
+schistosomiasis-associated bladder cancer	obsolete schistosoma hematobium-related bladder squamous cell carcinoma	DOID:5963	doid	child	no alias hit	gpt-6-luna	2026-10-05T20:28:24+00:00
+incident hypertension	hypertensive disorder	MONDO:0005044	mondo	parent	no alias hit	gpt-6-luna	2026-10-05T20:30:17+00:00
+amnion infection syndrome	obsolete disorder of amniotic fluid and membranes	DOID:8489	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:31:00+00:00
+knee osteoarthritis	osteoarthritis	DOID:8398	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:31:26+00:00
+triple-negative breast cancer	triple-negative breast cancer	DOID:0060081	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:31:42+00:00
+benign biliary obstruction	biliary tract disorder	MONDO:0004868	mondo	parent	no alias hit	gpt-6-luna	2026-10-05T20:32:12+00:00
+Squamous cell carcinoma of the esophagus	esophagus squamous cell carcinoma	DOID:3748	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:32:35+00:00
+Chronic inflammatory bowel disease	inflammatory bowel disease	DOID:0050589	doid	parent	approved after gpt-6-luna proposed parent; reviewer: “Chronic inflammatory bowel disease” denotes the same disease concept as “inflammatory bowel disease”; the entry is not broader than the query.	HumanReviewer:CCHAY	2026-10-05T20:33:14+00:00
+septic shock	septic shock, non-human animal	MONDO:1014822	mondo	child	no alias hit	gpt-6-luna	2026-10-05T20:34:04+00:00
+neuromyelitis optica spectrum disorder	neuromyelitis optica	DOID:8869	doid	child	no alias hit	gpt-6-luna	2026-10-05T20:34:32+00:00
+Candida albicans infection	candidiasis	DOID:1508	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:35:16+00:00
+acute interstitial nephritis	acute tubulointerstitial nephritis	MONDO:0800337	mondo	semantic	no alias hit	gpt-6-luna	2026-10-05T20:36:21+00:00
+follicular lymphoma (t(14;18)-negative)	follicular lymphoma	DOID:0050873	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:37:02+00:00
+KSHV infection	obsolete Herpesviridae infectious disease	DOID:2939	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:38:07+00:00
+oral lichen planus	lichen planus	DOID:9201	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:38:28+00:00
+severe obstructive sleep apnea	obstructive sleep apnea	DOID:0050848	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:39:14+00:00
+nonamnestic MCI			ncit	none	no alias hit; 3 retrieval error(s)	gpt-6-luna	2026-10-05T20:41:42+00:00
+AD dementia	Alzheimer's disease	DOID:10652	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:42:23+00:00
+Luminal A breast cancer	luminal breast carcinoma A	DOID:0060548	doid	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes the same concept, but neither its label nor a synonym exactly matches “Luminal A breast cancer.”	HumanReviewer:CCHAY	2026-10-05T20:42:46+00:00
+carotid atherosclerosis	carotid artery disease	DOID:3407	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:43:18+00:00
+liver fibrosis	hepatic fibrosis	DOID:0061215	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:43:39+00:00
+Mucopolysaccharidosis type IVa (MPS IVa)	mucopolysaccharidosis IVA	DOID:0111391	doid	exact	approved after gpt-6-luna proposed exact; reviewer: The entry denotes mucopolysaccharidosis IVA, the same disease concept as MPS IVa, but the query wording is not an exact match to the label or listed synonyms.	HumanReviewer:CCHAY	2026-10-05T20:44:23+00:00
+idiopathic normal pressure hydrocephalus	normal pressure hydrocephalus	DOID:1572	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:45:02+00:00
+heart failure	congestive heart failure	DOID:6000	doid	semantic	approved after gpt-6-luna proposed semantic; reviewer: Congestive heart failure is a more specific form of heart failure, so the entry is narrower than the query term rather than a semantic equivalent.	HumanReviewer:CCHAY	2026-10-05T20:45:47+00:00
+inflammation	inflammatory disease	MONDO:0021166	mondo	semantic	approved after gpt-6-luna proposed semantic; reviewer: The entry is narrower: it denotes a disease involving a pathogenic inflammatory response, whereas inflammation is broader and does not necessarily denote a disease.	HumanReviewer:CCHAY	2026-10-05T20:47:09+00:00
+neuroinflammatory diseases	neurosarcoidosis	DOID:13403	doid	child	no alias hit	gpt-6-luna	2026-10-05T20:47:48+00:00
+type 1 diabetes	type 1 diabetes mellitus	DOID:9744	doid	semantic	Approved by human curator.	Reviewer:CCHAY	2026-10-05T20:48:37+00:00
+Brugia malayi infection	obsolete Brugia malayi filariasis	DOID:14421	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:49:17+00:00
+urosepsis	urinary tract infection	MONDO:0100338	mondo	parent	no alias hit	gpt-6-luna	2026-10-05T20:50:10+00:00
+hormone-sensitive prostate cancer	prostate cancer	DOID:10283	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:50:33+00:00
+upper urinary tract urothelial cancer	obsolete renal pelvis and ureter transitional cell cancer	DOID:4009	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:51:03+00:00
+alpha-gal syndrome	alpha-gal syndrome	DOID:0070659	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:51:28+00:00
+acute liver injury induced by acetaminophen	drug-induced hepatitis	DOID:2044	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:52:30+00:00
+diabetic nephropathy	diabetic kidney disease	MONDO:0005016	mondo	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:53:14+00:00
+cataract	cataract	DOID:83	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:53:47+00:00
+brain cavernous hemangioma	intracranial cavernous angioma	DOID:2516	doid	semantic	no alias hit	gpt-6-luna	2026-10-05T20:54:18+00:00
+aortic valve calcification	aortic valve disease	DOID:62	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:54:55+00:00
+COPD	chronic obstructive pulmonary disease	DOID:3083	doid	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:55:36+00:00
+hypoxia	hypoxia	EFO:0009444	efo	exact	approved after gpt-6-luna proposed exact	HumanReviewer:CCHAY	2026-10-05T20:56:52+00:00
+IgD multiple myeloma	multiple myeloma	DOID:9538	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:57:20+00:00
+Niemann-Pick disease type C	Niemann-Pick disease	DOID:14504	doid	parent	no alias hit	gpt-6-luna	2026-10-05T20:57:52+00:00

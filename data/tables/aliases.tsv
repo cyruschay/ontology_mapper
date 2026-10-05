@@ -24,3 +24,81 @@ hemoglobin	hemoglobin	hemoglobin complex	GO:0005833	go	protein	semantic	gpt-6-lu
 hba1c	HbA1c	hemoglobin A1c	PR:000050469	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T22:02:40+00:00
 transferrin (human)	transferrin (human)	serotransferrin (human)	PR:P02787	pr	protein	exact	HumanReviewer:CCHAY	2026-10-01T22:07:20+00:00
 hela cell line	HeLa cell line	HeLa cell	BTO:0000567	bto	specimen	exact	HumanReviewer:CCHAY	2026-10-01T22:13:46+00:00
+integrin beta-3	integrin beta-3	integrin beta-3 (human)	PR:P05106	pr	protein	semantic	HumanReviewer:CCHAY	2026-10-02T23:51:19+00:00
+klk3	KLK3	prostate-specific antigen	PR:000003015	pr	protein	exact	HumanReviewer:CCHAY	2026-10-02T23:53:39+00:00
+complement c3 beta chain	complement C3 beta chain	complement C3 beta chain	PR:000050119	pr	protein	exact	HumanReviewer:CCHAY	2026-10-02T23:54:34+00:00
+complement c3 beta chain (human)	complement C3 beta chain (human)	complement C3 beta chain (human)	PR:000050133	pr	protein	exact	HumanReviewer:CCHAY	2026-10-02T23:55:06+00:00
+beta-trace protein (human)	beta-trace protein (human)	prostaglandin-H2 D-isomerase (human)	PR:P41222	pr	protein	exact	HumanReviewer:CCHAY	2026-10-02T23:55:41+00:00
+carcinoembryonic antigen	carcinoembryonic antigen	cell adhesion molecule CEACAM5	PR:000001330	pr	protein	exact	HumanReviewer:CCHAY	2026-10-02T23:56:58+00:00
+carcinoembryonic antigen (human)	carcinoembryonic antigen (human)	cell adhesion molecule CEACAM5 (human)	PR:P06731	pr	protein	exact	HumanReviewer:CCHAY	2026-10-02T23:57:18+00:00
+psa (human)	PSA (human)	prostate-specific antigen (human)	PR:P07288	pr	protein	exact	HumanReviewer:CCHAY	2026-10-02T23:58:41+00:00
+tgf-beta receptor ii	TGF-beta receptor II	TGF-beta receptor type-2	PR:000000005	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:01:20+00:00
+tgf-beta receptor ii (human)	TGF-beta receptor II (human)	TGF-beta receptor type-2 (human)	PR:P37173	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:01:49+00:00
+cd14	CD14	CD14 molecule	PR:000001889	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:03:33+00:00
+cd14 (human)	CD14 (human)	monocyte differentiation antigen CD14 (human)	PR:P08571	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:03:52+00:00
+kininogen (human)	kininogen (human)	kininogen-1 (human)	PR:P01042	pr	protein	semantic	gpt-6-luna	2026-10-03T00:06:04+00:00
+alpha fetoprotein (human)	alpha fetoprotein (human)	alpha-fetoprotein (human)	PR:P02771	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:06:56+00:00
+von willebrand factor (human)	von Willebrand factor (human)	von Willebrand factor (human)	PR:P04275	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:11:44+00:00
+apolipoprotein b (human)	apolipoprotein B (human)	apolipoprotein B-100 (human)	PR:P04114	pr	protein	semantic	HumanReviewer:CCHAY	2026-10-03T00:12:29+00:00
+l1cam (human)	L1CAM (human)	neural cell adhesion molecule L1 (human)	PR:P32004	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:13:07+00:00
+l1 cell adhesion molecule (human)	L1 cell adhesion molecule (human)	neural cell adhesion molecule L1 (human)	PR:P32004	pr	protein	semantic	gpt-6-luna	2026-10-03T00:13:33+00:00
+immunoglobulin g	immunoglobulin G	IgG immunoglobulin complex	GO:0071735	go	protein	semantic	gpt-6-luna	2026-10-03T00:17:36+00:00
+dc-sign (human)	DC-SIGN (human)	CD209 antigen (human)	PR:Q9NNX6	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:19:05+00:00
+cd55 (human)	CD55 (human)	complement decay-accelerating factor (human)	PR:P08174	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:20:19+00:00
+cd48 (human)	CD48 (human)	CD48 antigen (human)	PR:P09326	pr	protein	exact	HumanReviewer:CCHAY	2026-10-03T00:21:12+00:00
+rna polymerase ii (human)	RNA polymerase II (human)	RNA polymerase II, core complex	GO:0005665	go	protein	semantic	HumanReviewer:CCHAY	2026-10-03T00:23:01+00:00
+3-hydroxy-3-methylglutaric aciduria	3-hydroxy-3-methylglutaric aciduria	3-hydroxy-3-methylglutaryl-CoA lyase deficiency	DOID:0070541	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T18:15:17+00:00
+3-ketothiolase deficiency	3-ketothiolase deficiency	beta-ketothiolase deficiency	DOID:14723	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T18:19:48+00:00
+glutaric acidemia type 1	glutaric acidemia type 1	glutaric acidemia I	DOID:0111254	doid	disease	semantic	gpt-6-luna	2026-10-05T18:21:39+00:00
+methylmalonic acidemia (cobalamin disorders)	methylmalonic acidemia (Cobalamin disorders)	methylmalonic acidemia	DOID:14749	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T18:33:31+00:00
+methylmalonic acidemia (methylmalonyl-coa mutase)	methylmalonic acidemia (methylmalonyl-CoA mutase)	methylmalonic aciduria due to methylmalonyl-CoA mutase deficiency	DOID:0060740	doid	disease	semantic	gpt-6-luna	2026-10-05T18:37:27+00:00
+methylmalonic acidemia	methylmalonic acidemia	methylmalonic acidemia	DOID:14749	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:26:54+00:00
+subarachnoid haemorrhage	subarachnoid haemorrhage	subarachnoid hemorrhage	MONDO:0005099	mondo	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:30:39+00:00
+epithelial ovarian cancer	epithelial ovarian cancer	ovary epithelial cancer	DOID:2152	doid	disease	semantic	gpt-6-luna	2026-10-05T19:42:25+00:00
+helicobacter pylori infection	Helicobacter pylori infection	obsolete Helicobacter pylori infectious disease	DOID:3686	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:44:52+00:00
+cervical carcinoma	cervical carcinoma	cervix carcinoma	DOID:2893	doid	disease	semantic	gpt-6-luna	2026-10-05T19:47:13+00:00
+graft-versus-host disease	graft-versus-host disease	graft-versus-host disease	DOID:0081267	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:48:19+00:00
+mycobacterium tuberculosis infection	Mycobacterium tuberculosis infection	tuberculosis	DOID:399	doid	disease	semantic	gpt-6-luna	2026-10-05T19:50:36+00:00
+malignant serous ovarian carcinoma	malignant serous ovarian carcinoma	ovary serous adenocarcinoma	DOID:5744	doid	disease	semantic	gpt-6-luna	2026-10-05T19:51:51+00:00
+mammary carcinoma	mammary carcinoma	breast carcinoma	DOID:3459	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:52:28+00:00
+haemophilus influenzae infection	Haemophilus influenzae infection	obsolete Haemophilus influenzae infectious disease	DOID:10528	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:55:16+00:00
+rectal carcinoma	rectal carcinoma	rectum cancer	DOID:1993	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:57:00+00:00
+ischemic heart disease	ischemic heart disease	coronary artery disease	DOID:3393	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T19:58:01+00:00
+serous ovarian cancer	serous ovarian cancer	ovarian serous carcinoma	DOID:0050933	doid	disease	semantic	gpt-6-luna	2026-10-05T19:59:32+00:00
+muscle-eye-brain disease	Muscle-Eye-Brain disease	congenital muscular dystrophy-dystroglycanopathy type A3	DOID:0111236	doid	disease	semantic	HumanReviewer:CCHAY	2026-10-05T20:01:32+00:00
+human norovirus infection	human norovirus infection	obsolete Norovirus gastroenteritis	DOID:14311	doid	disease	semantic	gpt-6-luna	2026-10-05T20:02:46+00:00
+chronic pancreatitis	chronic pancreatitis	chronic pancreatitis	DOID:0051065	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:04:12+00:00
+tn syndrome	Tn syndrome	Tn polyagglutination syndrome	DOID:0080520	doid	disease	semantic	gpt-6-luna	2026-10-05T20:06:17+00:00
+acquired immune deficiency syndrome	Acquired Immune Deficiency Syndrome	acquired immunodeficiency syndrome	DOID:635	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:06:58+00:00
+intestinal metaplasia	intestinal metaplasia	gastric intestinal metaplasia	MONDO:0100190	mondo	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:07:50+00:00
+oral cancer	oral cancer	oral cavity cancer	DOID:8618	doid	disease	semantic	gpt-6-luna	2026-10-05T20:11:20+00:00
+small cell lung cancer	small cell lung cancer	lung small cell carcinoma	DOID:5409	doid	disease	semantic	gpt-6-luna	2026-10-05T20:12:23+00:00
+cutaneous lymphoma	cutaneous lymphoma	obsolete skin lymphoma	DOID:6761	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:12:55+00:00
+chronic inflammation	chronic inflammation	Chronic Inflammation	NCIT:C174450	ncit	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:14:21+00:00
+mucinous carcinoma	mucinous carcinoma	mucinous adenocarcinoma	DOID:3030	doid	disease	semantic	gpt-6-luna	2026-10-05T20:16:20+00:00
+human brain hemangioma	human brain hemangioma	cerebral angioma	DOID:6621	doid	disease	semantic	gpt-6-luna	2026-10-05T20:17:23+00:00
+infertility	infertility	infertility	DOID:5223	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:18:44+00:00
+superficial bladder cancer	superficial bladder cancer	superficial urinary bladder cancer	DOID:7371	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:19:23+00:00
+diabetic cardiomyopathy	diabetic cardiomyopathy	diabetic cardiomyopathy	EFO:1001458	efo	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:25:48+00:00
+glioma	glioma	high grade glioma	DOID:3070	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:26:15+00:00
+pulmonary emphysema	pulmonary emphysema	pulmonary emphysema	DOID:9675	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:26:40+00:00
+her2-positive breast cancer	HER2-positive breast cancer	HER2 positive breast cancer	DOID:0060079	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:27:10+00:00
+endometrioid ovarian cancer	endometrioid ovarian cancer	endometrioid ovary carcinoma	DOID:5828	doid	disease	semantic	gpt-6-luna	2026-10-05T20:27:40+00:00
+triple-negative breast cancer	triple-negative breast cancer	triple-negative breast cancer	DOID:0060081	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:31:42+00:00
+squamous cell carcinoma of the esophagus	Squamous cell carcinoma of the esophagus	esophagus squamous cell carcinoma	DOID:3748	doid	disease	semantic	gpt-6-luna	2026-10-05T20:32:35+00:00
+acute interstitial nephritis	acute interstitial nephritis	acute tubulointerstitial nephritis	MONDO:0800337	mondo	disease	semantic	gpt-6-luna	2026-10-05T20:36:21+00:00
+ad dementia	AD dementia	Alzheimer's disease	DOID:10652	doid	disease	semantic	gpt-6-luna	2026-10-05T20:42:23+00:00
+luminal a breast cancer	Luminal A breast cancer	luminal breast carcinoma A	DOID:0060548	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:42:46+00:00
+liver fibrosis	liver fibrosis	hepatic fibrosis	DOID:0061215	doid	disease	semantic	gpt-6-luna	2026-10-05T20:43:39+00:00
+mucopolysaccharidosis type iva (mps iva)	Mucopolysaccharidosis type IVa (MPS IVa)	mucopolysaccharidosis IVA	DOID:0111391	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:44:23+00:00
+heart failure	heart failure	congestive heart failure	DOID:6000	doid	disease	semantic	HumanReviewer:CCHAY	2026-10-05T20:45:47+00:00
+inflammation	inflammation	inflammatory disease	MONDO:0021166	mondo	disease	semantic	HumanReviewer:CCHAY	2026-10-05T20:47:09+00:00
+type 1 diabetes	type 1 diabetes	type 1 diabetes mellitus	DOID:9744	doid	disease	semantic	gpt-6-luna	2026-10-05T20:48:37+00:00
+brugia malayi infection	Brugia malayi infection	obsolete Brugia malayi filariasis	DOID:14421	doid	disease	semantic	gpt-6-luna	2026-10-05T20:49:17+00:00
+upper urinary tract urothelial cancer	upper urinary tract urothelial cancer	obsolete renal pelvis and ureter transitional cell cancer	DOID:4009	doid	disease	semantic	gpt-6-luna	2026-10-05T20:51:03+00:00
+alpha-gal syndrome	alpha-gal syndrome	alpha-gal syndrome	DOID:0070659	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:51:28+00:00
+diabetic nephropathy	diabetic nephropathy	diabetic kidney disease	MONDO:0005016	mondo	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:53:14+00:00
+cataract	cataract	cataract	DOID:83	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:53:47+00:00
+brain cavernous hemangioma	brain cavernous hemangioma	intracranial cavernous angioma	DOID:2516	doid	disease	semantic	gpt-6-luna	2026-10-05T20:54:18+00:00
+copd	COPD	chronic obstructive pulmonary disease	DOID:3083	doid	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:55:36+00:00
+hypoxia	hypoxia	hypoxia	EFO:0009444	efo	disease	exact	HumanReviewer:CCHAY	2026-10-05T20:56:52+00:00
